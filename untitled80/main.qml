@@ -7,4 +7,4 @@ Window {
     height: 480
     title: qsTr("Hello World")
 }
-//sdsd
+//sdsdss
